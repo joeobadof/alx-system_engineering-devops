@@ -1,2 +1,2 @@
 #!/bin/bash
- touch best school "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
+ ls -a > ls_cwd_content
